@@ -1,9 +1,11 @@
-## 🏆 My Achievement
 
 <p align="center">
-  <img src="50.gif" width="180" alt="LeetCode 50 Days Badge">
+  <img src="50.gif" width="150" alt="LeetCode 50 Days Achievement">
 </p>
 
 <p align="center">
-  <b>50 Days of LeetCode Challenge Completed!</b> 🎉
+  **It all began with one problem and a little curiosity.**
 </p>
+
+
+
